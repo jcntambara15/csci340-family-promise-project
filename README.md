@@ -20,7 +20,7 @@ In the front-end HTML/CSS role, I will ensure that our project utilizes proper H
 aesthetically pleasing final project.
 I will also work with my teammates on other areas of the projects as needed.
 
-Riley:
+Riley: For our Family Promise Project, I will work to ensure the Framework/Deployment of our database is working and up to date. In this role, I will ensure that everyone is on the same page as far as what is being created so we can all learn from this project. Additionally, I will contribute with other roles of our project to learn from and complete our assignments in a timely manner.
 
 
 JC
